@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-nativesettingsopener",
+  "version": "1.3",
+  "cordova": {
+    "id": "cordova-plugin-nativesettingsopener",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": ""
+}
